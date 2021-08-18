@@ -1,0 +1,7 @@
+echo "# madclown.github.oi" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git nhánh -M main 
+git từ xa thêm origin https://github.com/madd107/madclown. github.oi.git
+ git push -u origin main
